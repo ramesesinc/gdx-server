@@ -1,0 +1,9 @@
+#-----------------------------------------------------
+#this is used for invoking remote services in itself
+#-----------------------------------------------------
+provider=script
+app.host=localhost:9070
+app.cluster=osiris3
+app.context=gdx
+readTimeout=60000
+

@@ -1,0 +1,7 @@
+provider=rabbitmq
+host=localhost
+user=ramesesinc
+pwd=1234
+exchange=gdx
+type=direct
+heartbeat=10
